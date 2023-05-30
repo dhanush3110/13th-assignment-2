@@ -1,0 +1,42 @@
+#default{
+    background-color: rgb(230, 227, 223);
+    padding:2em;
+    text-align:left;
+   
+}
+#default1{
+    background-color: rgb(230, 227, 223);
+    text-align:left;
+}
+
+#ok{
+    background-color: rgb(230, 227, 223);
+    position:static;
+    right:0;
+    text-align:left;
+    padding:2em;
+    
+
+}
+
+
+#default1{
+    background-color: rgb(230, 227, 223);
+    padding:2em;
+}
+
+
+table{
+    text-align:center;
+    padding:50%;
+    border:25px;
+}
+
+body{
+   
+}
+
+#border{
+    border:1px solid black;
+    border-width: 1px;
+}
